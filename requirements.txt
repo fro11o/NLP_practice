@@ -1,0 +1,8 @@
+numpy
+jupyter
+pandas
+gensim
+sklearn
+tensorflow-gpu
+matplotlib
+nltk
